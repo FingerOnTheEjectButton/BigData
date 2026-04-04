@@ -11,3 +11,7 @@ Labs for Big Data course over 8th semester
 вычислимом документе MapReduceExamples.ipynb.
 
 ---
+
+# Лабораторная работа 1
+
+**Цель:** Познакомиться с Apache Spark и сделать предложенные упражнения.
