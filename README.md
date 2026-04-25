@@ -26,4 +26,4 @@ Labs for Big Data course over 8th semester
 
 # Лабораторная работа 3
 
-**Цель:**
+**Цель:** Выполнить задания: "RideCleansingExercise", RidesAndFaresExercise, HourlyTipsExercise и ExpiringStateExercise из набора заданий.
